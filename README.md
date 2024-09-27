@@ -1,3 +1,3 @@
 # Event Modeling PDX
 
-Coming soon...
+[eventmodeling.org](https://eventmodeling.org/)
